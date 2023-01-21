@@ -1,12 +1,15 @@
 import React, { Component } from 'react'
 import { Text, View } from 'react-native'
 
-export default class narendar extends Component {
+export class Narendar extends Component {
   render() {
     return (
       <View>
-        <Text> textInComponent </Text>
+        <Text> newText using import { connect } from 'react-redux'
+         </Text>
       </View>
     )
   }
 }
+
+export default N

@@ -1,1 +1,13 @@
-newapp.js
+// n dhgfghf m mj hjm hj ghjghj
+import React, { Component } from 'react'
+import { Text, View } from 'react-native'
+
+export default class newapp extends Component {
+  render() {
+    return (
+      <View>
+        <Text> textInComponent </Text>
+      </View>
+    )
+  }
+}
