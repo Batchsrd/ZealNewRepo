@@ -10,9 +10,10 @@ export class Narendar extends Component {
          <Text>hello</Text>
          <Text>Hello World</Text>
          <Text>Helllo nebddhvcgvcgdvccxbvcvafxxc</Text>
+         <Text>New text for fifth commit</Text>
       </View>
     )
   }
 }
 
-export default N
+export default Narendar
