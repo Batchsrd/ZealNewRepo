@@ -11,6 +11,7 @@ export class Narendar extends Component {
          <Text>Hello World</Text>
          <Text>Helllo nebddhvcgvcgdvccxbvcvafxxc</Text>
          <Text>New text for fifth commit</Text>
+         <Text>bsjcaskhvkhkshlv</Text>
       </View>
     )
   }
